@@ -1,6 +1,7 @@
 # Charity Organization Landing Page
 
-Ini adalah landing page untuk sebuah organisasi amal (**Innovative Solutions for Animals**) yang dibangun dengan **Vue.js (Option API)**. Proyek ini menampilkan animasi interaktif menggunakan **GSAP** dan menggunakan **SCSS** untuk styling.
+Ini adalah landing page untuk sebuah organisasi amal (**Innovative Solutions for Animals**) yang dibangun dengan **Vue.js (Option API)**. Proyek ini menampilkan animasi interaktif menggunakan **GSAP** dan menggunakan **SCSS** untuk styling. 
+Note: Landing Page ini belum didesain responsif
 
 ## 🔧 Teknologi yang Digunakan
 
@@ -25,6 +26,6 @@ npm run dev
 
 ```
 
-## 🔧Live Demo
+## 🌍 Live Demo
 
-- [Link](https://vuejs.org/)
+- [Link]([https://vuejs.org/](https://fakhri-isa-charity.vercel.app/))
